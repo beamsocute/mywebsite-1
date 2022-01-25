@@ -2,7 +2,7 @@
         <head>
                 <title>งานที่ 1</title>
         </head>
-        <body bgcolor="#FFBBDA">
+        <body bgcolor="#89CFEF">
                 <h1>ประวัติส่วนตัว</h1>
                 <br>
                 <b>ชื่อ;</b> <i>ฐิติ​รัตน์​ อ่อน​ศรี​</i>
