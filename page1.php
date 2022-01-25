@@ -1,10 +1,20 @@
 <html>
-     <head>
-        <title>งานที่ 1</title>
-      </head>
-     <body bgcolor="lightblue">
-      page1ธรรมดา
-      <br>
-      <b>page1หนา</b>
-     </body>
-</html>
+        <head>
+                <title>งานที่ 1</title>
+        </head>
+        <body bgcolor="7cffea">
+                <h1>ประวัติส่วนตัว</h1>
+                <br>
+                <b>ชื่อ;</b> <i>ฐิติ​รัตน์​ อ่อน​ศรี​</i>
+                <br>
+                <b>ชื่อเล่น;</b> <i>น้ำตาล</i>
+                <br>
+                <b>ชั้น;</b> <i>ม.4/13</i>
+                <br>
+                <b>เลขที่;</b> <i>26</i>
+                <br>
+                <b>เลขประจำตัว;</b> <i>58526</i>
+                <br>
+                <b>โรงเรียน;</b> <i>หล่มสักวิทยาคม</i>
+        </body>
+</html
