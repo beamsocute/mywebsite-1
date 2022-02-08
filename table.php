@@ -29,7 +29,7 @@
         <td>3</td>
         <td>กฤษฏ์ อำนวยเดชกร</td>
         <td>พีพี</td>
-        <td><img src="https://static.thairath.co.th/media/4DQpjUtzLUwmJZZSC4MkkJTjPezKgdjFBUo7344aSuqc.jpg" width="130px"></td>
+        <td><img src="https://s.isanook.com/ca/0/ui/280/1400284/81042589_470613516956451_7488699268081717603_n_1587715122.jpg" width="130px"></td>
         <td><a href="https://mobile.twitter.com/_iuofficial?lang=en">twitter</a></td>
       </tr>
       <tr>
