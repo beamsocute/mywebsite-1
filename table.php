@@ -23,14 +23,14 @@
         <td>พุฒิพงศ์ อัสสรัตนกุล</td>
         <td>บิวกิ้น</td>
         <td><img src="https://static.thairath.co.th/media/4DQpjUtzLUwmJZZSC4MkkJTjPezKgdjFBUo7344aSuqc.jpg" width="130px"></td>
-        <td><a href="https://twitter.com/marktuan?t=EDJPPrK93U_LJ1oQJ6fEOA&s=09">twitter</a></td>
+        <td><a href="https://twitter.com/oliviarodrigo?lang=en">twitter</a></td>
       </tr>
       <tr>
         <td>3</td>
         <td>กฤษฏ์ อำนวยเดชกร</td>
         <td>พีพี</td>
         <td><img src="https://s.isanook.com/ca/0/ui/280/1400284/81042589_470613516956451_7488699268081717603_n_1587715122.jpg" width="130px"></td>
-        <td><a href="https://twitter.com/marktuan?t=EDJPPrK93U_LJ1oQJ6fEOA&s=09">twitter</a></td>
+        <td><a href="https://mobile.twitter.com/_iuofficial?lang=en">twitter</a></td>
       </tr>
       <tr>
         <td>4</td>
@@ -41,9 +41,9 @@
       </tr>
       <tr>
         <td>5</td>
-        <td>มาร์ค​ ต้วน</td>
-        <td>มาร์ค​</td>
-        <td><img src="https://lastfm.freetls.fastly.net/i/u/770x0/114ff5c03bbc402ac0b14a20a30c8afd.jpg" width="130px"></td>
+        <td>มาร์ค ต้วน</td>
+        <td>มาร์ค</td>
+        <td><img src="https://finzaaa.com/uploads/images/2021/11/image_750x_618e0a6eb8425.jpg" width="130px"></td>
         <td><a href="https://twitter.com/lauvsongs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
       </tr>
       <tr>
