@@ -13,8 +13,8 @@
       </tr>
       <tr>
         <td>1</td>
-        <td>ยิ่งคุณ รอดทิม</td>
-        <td>ขม</td>
+        <td>กันต์พิมุกต์ ภูวกุล</td>
+        <td>แบมแบม</td>
         <td><img src="https://s.isanook.com/ns/0/rp/rc/.jpg" width="130px"></td>
         <td><a href="https://twitter.com/BamBam1A?t=xQkCquRUuOw6C-0r6Duz2Q&s=09">twitter</a></td>
       </tr>  
