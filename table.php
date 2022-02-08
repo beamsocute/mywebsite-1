@@ -15,7 +15,7 @@
         <td>1</td>
         <td>ยิ่งคุณ รอดทิม</td>
         <td>ขม</td>
-        <td><img src="https://asianwiki.com/images/e/e8/Song_Joong-Ki-p002.jpeg" width="130px"></td>
+        <td><img src="https://images.app.goo.gl/X7hi1zYWPyp79yGw8" width="130px"></td>
         <td><a href="https://twitter.com/BamBam1A?t=xQkCquRUuOw6C-0r6Duz2Q&s=09">twitter</a></td>
       </tr>  
     </table>
