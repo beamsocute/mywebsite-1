@@ -34,9 +34,9 @@
       </tr>
       <tr>
         <td>4</td>
-        <td>อารีอานา กรานเด-บูเทรา</td>
-        <td>อารีอานา</td>
-        <td><img src="https://assets.teenvogue.com/photos/613b5fd248eda7f19679403c/2:3/w_1344,h_2017,c_limit/1235152164" width="130px"></td>
+        <td>กฤษณภูมิ พิบูลสงคราม</td>
+        <td>เจเจ</td>
+        <td><img src="https://static.posttoday.com/media/content/2020/11/18/8B1AC0479E3059AD044F8F120A4746B4_1000.jpg" width="130px"></td>
         <td><a href="https://twitter.com/arianatoday?lang=en">twitter</a></td>
       </tr>
       <tr>
