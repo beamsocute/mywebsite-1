@@ -37,7 +37,7 @@
         <td>กฤษณภูมิ พิบูลสงคราม</td>
         <td>เจเจ</td>
         <td><img src="https://static.posttoday.com/media/content/2020/11/18/8B1AC0479E3059AD044F8F120A4746B4_1000.jpg" width="130px"></td>
-        <td><a href="https://twitter.com/arianatoday?lang=en">twitter</a></td>
+        <td><a href="https://twitter.com/JJksnp?t=14cHuqyBulqhdrXFuWSMGw&s=09">twitter</a></td>
       </tr>
       <tr>
         <td>5</td>
