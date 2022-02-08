@@ -15,7 +15,7 @@
         <td>1</td>
         <td>ฐิติ​รัตน์​ อ่อน​ศรี​</td>
         <td>น้ำตาล</td>
-        <td><img src="https://asianwiki.com/images/e/e8/Song_Joong-Ki-p002.jpeg" width="130px"></td>
+        <td><img src="https://i.pinimg.com/originals/a5/b9/ae/a5b9aea7aa60f55329c2eee88e23769d.jpg" width="130px"></td>
         <td><a href="https://twitter.com/sjk_kith?lang=en">twitter</a></td>
       </tr>  
     </table>
