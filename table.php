@@ -16,21 +16,21 @@
         <td>กันต์พิมุกต์ ภูวกุล</td>
         <td>แบมแบม</td>
         <td><img src="https://pbs.twimg.com/profile_images/1481642811749404682/NXBKpa7n_400x400.jpg" width="130px"></td>
-        <td><a href="https://twitter.com/zommarie?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
+        <td><a href="https://twitter.com/BamBam1A?t=enI4UnHsdi0t5P3TAXCQIQ&s=09">twitter</a></td>
       </tr>
       <tr>
         <td>2</td>
         <td>พุฒิพงศ์ อัสสรัตนกุล</td>
         <td>บิวกิ้น</td>
         <td><img src="https://static.thairath.co.th/media/4DQpjUtzLUwmJZZSC4MkkJTjPezKgdjFBUo7344aSuqc.jpg" width="130px"></td>
-        <td><a href="https://twitter.com/oliviarodrigo?lang=en">twitter</a></td>
+        <td><a href="https://twitter.com/bbillkin?t=l3xOuXzb9f-yoti_vRNCjA&s=09">twitter</a></td>
       </tr>
       <tr>
         <td>3</td>
         <td>กฤษฏ์ อำนวยเดชกร</td>
         <td>พีพี</td>
         <td><img src="https://s.isanook.com/ca/0/ui/280/1400284/81042589_470613516956451_7488699268081717603_n_1587715122.jpg" width="130px"></td>
-        <td><a href="https://mobile.twitter.com/_iuofficial?lang=en">twitter</a></td>
+        <td><a href="https://twitter.com/ppkritt?t=S4Sei_nJI5qZAtv_QkKjBA&s=09">twitter</a></td>
       </tr>
       <tr>
         <td>4</td>
