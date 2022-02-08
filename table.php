@@ -15,7 +15,7 @@
         <td>1</td>
         <td>กันต์พิมุกต์ ภูวกุล</td>
         <td>แบมแบม</td>
-        <td><img src="https://pbs.twimg.com/profile_images/1481642811749404682/NXBKpa7n.jpg" width="130px"></td>
+        <td><img src="https://images.app.goo.gl/mtwdoz1wEfdFiwdDA" width="130px"></td>
         <td><a href="https://twitter.com/BamBam1A?t=xQkCquRUuOw6C-0r6Duz2Q&s=09">twitter</a></td>
       </tr>  
     </table>
