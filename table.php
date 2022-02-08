@@ -14,22 +14,22 @@
       <tr>
         <td>1</td>
         <td>กันต์พิมุกต์ ภูวกุล</td>
-        <td>ส้ม</td>
+        <td>แบมแบม</td>
         <td><img src="https://pbs.twimg.com/profile_images/1481642811749404682/NXBKpa7n_400x400.jpg" width="130px"></td>
         <td><a href="https://twitter.com/zommarie?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
       </tr>
       <tr>
         <td>2</td>
-        <td>โอลิเวีย อีซาเบล ร็อดริโก</td>
-        <td>โอลิเวีย</td>
-        <td><img src="https://assets.teenvogue.com/photos/6076dcb99774944e1309a4d1/2:3/w_1000,h_1500,c_limit/olivia.jpeg" width="130px"></td>
+        <td>พุฒิพงศ์ อัสสรัตนกุล</td>
+        <td>บิวกิ้น</td>
+        <td><img src="https://static.thairath.co.th/media/4DQpjUtzLUwmJZZSC4MkkJTjPezKgdjFBUo7344aSuqc.jpg" width="130px"></td>
         <td><a href="https://twitter.com/oliviarodrigo?lang=en">twitter</a></td>
       </tr>
       <tr>
         <td>3</td>
-        <td>อี จีอึน</td>
-        <td>ไอยู</td>
-        <td><img src="https://www.akerufeed.com/wp-content/uploads/2021/02/iu1.png" width="130px"></td>
+        <td>กฤษฏ์ อำนวยเดชกร</td>
+        <td>พีพี</td>
+        <td><img src="https://static.thairath.co.th/media/4DQpjUtzLUwmJZZSC4MkkJTjPezKgdjFBUo7344aSuqc.jpg" width="130px"></td>
         <td><a href="https://mobile.twitter.com/_iuofficial?lang=en">twitter</a></td>
       </tr>
       <tr>
