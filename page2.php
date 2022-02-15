@@ -1,8 +1,16 @@
 <html>
   <head>
-    <title>การ​ตกแต่ง​เว็บไซต์​ด้วย​ CSS</title>
-  </head>
-  <body>
-    <p style"=color:green;">ข้อความนี้สีเขียว</p>
-  </body> 
+	<title การตกแต่งเว็บไซต์ด้วย CS</title>
+	<style>
+	.text1{
+	color:green;
+	}
+	.text2{
+	color:yellow;
+        </style>
+  </head>
+ <body>
+ <h1 class="text1"> ข้อความนี้สีเขียว H1 </h1>
+ <h1 class="text2"> ข้อความนี้สีเหลือง H1 </h1>
+ </body>
 </html>
