@@ -10,7 +10,7 @@
 				background-color: a4e6ff;
 			}
 			body{
-                                background-color: lightpink;
+                                background-color: ffbaff;
 			}
 			h1{
 				color: fbff84;      
