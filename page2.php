@@ -13,7 +13,7 @@
                                 background-color: lightpink;
 			}
 			h1{
-				color: yellow;      
+				color: fbff84;      
 		</style>
 	</head>
 	<body>
