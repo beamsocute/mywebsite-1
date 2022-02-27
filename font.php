@@ -5,7 +5,7 @@
 	<title>กำหนดรูปแบบตัวอักษร</title>
   <style>
     body{
-      background-color: #FAEBD7;
+      background-color: #DEB887;
     }
     @font-face{
       font-family: myFont1;
